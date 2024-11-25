@@ -1,0 +1,13 @@
+body {
+    i {
+        &[class*="trash-0"] {
+            color: red;
+        }
+        &[class*="check"] {
+            color: green;
+        }
+        &[class*="square-o"] {
+            color: blue;
+        }
+    }
+}
